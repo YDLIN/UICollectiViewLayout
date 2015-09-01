@@ -1,0 +1,12 @@
+//
+//  DuConst.pch
+//  FlowLayout
+//
+//  Created by Du on 15/8/30.
+//  Copyright (c) 2015年 Du. All rights reserved.
+//
+
+#ifndef FlowLayout_DuConst_pch
+#define FlowLayout_DuConst_pch
+#define DuLayoutConst 350
+#endif
